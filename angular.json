@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-qrcode"
+    }
+  },
+  "defaultProject": "angular-qrcode",
+  "cli": {
+    "analytics": "6e6ed6b3-b4d6-4c33-aa31-d350a3cd3896"
+  }
 }
