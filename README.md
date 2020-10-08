@@ -1,4 +1,6 @@
 # AngularQrcode
+![Screenshot (6)](https://user-images.githubusercontent.com/60258353/95483066-a3c53000-0943-11eb-8a36-cea4090ea055.png)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
 
